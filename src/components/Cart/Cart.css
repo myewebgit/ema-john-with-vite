@@ -4,3 +4,13 @@
     position: sticky;
     top: 0;
 }
+
+.btn-clear{
+    width: 100%;
+    margin: 10px auto;
+    color: white;
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
